@@ -50,3 +50,7 @@ Look into usages and what advantages it has over something like Dagger 2.
 #### GraphQL
 * https://medium.com/mindorks/what-is-graphql-and-using-it-on-android-ab8e493abdd7
 * Apollo: https://github.com/apollographql/apollo-android
+
+## Kotlin Coroutines 
+* https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#1
+* https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb
